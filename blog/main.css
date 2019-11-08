@@ -1,0 +1,11 @@
+#root
+{
+    display: flex;
+
+}
+
+#articleContainer{
+    flex-wrap: wrap;
+    height: 80vh;
+    padding: 10px;
+}
